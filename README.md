@@ -7,9 +7,9 @@ This repository documents my technical projects in Embedded Systems, Industrial 
 ## 🔬 Featured Projects
 
 ### 1. [Bioimpedance Spectroscopy Optimization](./Bioimpedance-Project)
-* **Focus:** Python Simulation, Cole-Cole Modeling, Signal Processing.
-* **Result:** Determined optimum frequency combinations for high-noise environments.
-* [📄 View Technical Report](./Bioimpedance-Project/Optimzation of Frequency Selection for Impedance Spectroscopy.pdf)
+* [cite_start]**Focus:** Python Simulation, Cole-Cole Modeling, Signal Processing[cite: 60, 62].
+* [cite_start]**Result:** Determined optimum frequency combinations for high-noise environments[cite: 64].
+* [📄 View Technical Report](./Bioimpedance-Project/Optimzation%20of%20Frequency%20Selection%20for%20Impedance%20Spectroscopy.pdf)
 
 ### 2. [Green Hydrogen & PV Pumping (Bachelor Thesis)](./Hydrogen-Project)
 * **Focus:** Arduino Uno, Hardware Automation, Renewable Energy.
